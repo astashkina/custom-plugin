@@ -1,0 +1,14 @@
+java.lang.reflect.Array; 2
+com.intellij.ide.BrowserUtil; 3
+com.intellij.lang.Language; 2
+com.intellij.openapi.actionSystem.AnAction; 0
+com.intellij.openapi.actionSystem.AnActionEvent; 0
+com.intellij.openapi.actionSystem.LangDataKeys; 0
+com.intellij.openapi.actionSystem.PlatformDataKeys; 1
+com.intellij.openapi.editor.Editor; 2
+com.intellij.openapi.ui.Messages; 0
+com.intellij.psi.FileViewProvider; 0
+com.intellij.psi.PsiElement; 0
+com.intellij.psi.PsiFile; 0
+com.intellij.psi.util.PsiTreeUtil; 1
+java.util.Arrays; 0
